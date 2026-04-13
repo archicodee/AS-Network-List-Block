@@ -1,0 +1,7 @@
+*.log
+workspace/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
